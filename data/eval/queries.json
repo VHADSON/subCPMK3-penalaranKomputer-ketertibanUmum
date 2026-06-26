@@ -1,0 +1,26 @@
+[
+  {
+    "query_id": "q_case_020",
+    "query_text": "Halaman, PUTUSAN Nomor 353/PID/2026/PT PDG P U T U S A N Nomor 353/PID/2026/PT PDG DEMI KEADILAN BERDASARKAN KETUHANAN YANG MAHA ESA Pengadilan Tinggi Padang yang mengadili perkara pidana dalam peradilan tingkat banding telah menjatuhkan putusan dalam perkara Para Terdakwa : Terdakwa I : 1. Nama Len",
+    "ground_truth": "case_020",
+    "true_label": "bersalah_ringan"
+  },
+  {
+    "query_id": "q_case_004",
+    "query_text": "P U T U S A NNomor 1310/Pid.B/2025/PN TngDEMI KEADILAN BERDASARKAN KETUHANAN YANG MAHA ESAPengadilan Negeri Tangerang yang mengadili perkara pidana denganacara pemeriksaan biasa dalam tingkat pertama menjatuhkan putusan sebagaiberikut dalam perkara Para Terdakwa :Terdakwa 11. Nama lengkap : Muhammad",
+    "ground_truth": "case_004",
+    "true_label": "bebas"
+  },
+  {
+    "query_id": "q_case_022",
+    "query_text": "Putusan Nomor 58/Pid.B/2026/PN Pin P U T U S A N Nomor 58/Pid.B/2026/PN Pin DEMI KEADILAN BERDASARKAN KETUHANAN YANG MAHA ESA Pengadilan Negeri Pinrang yang mengadili perkara pidana dengan acara pemeriksaan biasa dalam tingkat pertama menjatuhkan putusan sebagai berikut dalam perkara Terdakwa: 1. Na",
+    "ground_truth": "case_022",
+    "true_label": "bersalah_ringan"
+  },
+  {
+    "query_id": "q_case_013",
+    "query_text": "P U T U S A NNomor 226/Pid.B/2024/PN GtoDEMI KEADILAN BERDASARKAN KETUHANAN YANG MAHA ESAPengadilan Negeri Gorontalo yang mengadili perkara pidana denganacara pemeriksaan biasa dalam tingkat pertama menjatuhkan putusan sebagaiberikut dalam perkara Terdakwa :1. Nama lengkap : SOEKARNO JB TAHALEA ALIA",
+    "ground_truth": "case_013",
+    "true_label": "bersalah_ringan"
+  }
+]
