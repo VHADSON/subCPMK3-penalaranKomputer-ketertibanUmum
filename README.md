@@ -1,7 +1,8 @@
 # CBR Putusan Kejahatan Terhadap Ketertiban Umum
 
 Sistem **Case-Based Reasoning (CBR)** untuk analisis putusan **Pidana Kejahatan Terhadap Ketertiban Umum**  
-menggunakan data dari Direktori Putusan Mahkamah Agung Republik Indonesia.
+menggunakan data dari Direktori Putusan Mahkamah Agung Republik Indonesia.   
+
 **Nama Anggota Kelompok 1:** Revaldo Ramadana (202310370311202)  
 **Nama Anggota Kelompok 2:** Wirsan Wijoyo (202310370311193) 
 **Mata Kuliah:** Penalaran Komputer – SubCPMK-3  
