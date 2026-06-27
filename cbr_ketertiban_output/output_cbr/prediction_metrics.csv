@@ -1,0 +1,5 @@
+﻿query_id,true_label,predicted_label_svm,predicted_label_nb,top_5_case_ids,correct_svm,correct_nb
+q_case_020,bersalah_ringan,bersalah_ringan,bersalah_ringan,case_020|case_016|case_017|case_002|case_031,True,True
+q_case_004,bebas,bersalah_ringan,bebas,case_004|case_012|case_011|case_027|case_018,False,True
+q_case_022,bersalah_ringan,bersalah_ringan,bersalah_ringan,case_022|case_027|case_030|case_003|case_016,True,True
+q_case_013,bersalah_ringan,bersalah_ringan,bersalah_ringan,case_013|case_007|case_006|case_014|case_010,True,True
