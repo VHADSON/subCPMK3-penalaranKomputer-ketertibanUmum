@@ -1,3 +1,4 @@
 ﻿model,accuracy,precision,recall,f1_score,top_5_retrieval_accuracy,n_test
 TF-IDF + SVM,0.75,0.5625,0.75,0.6429,1.0,4
 TF-IDF + Naive Bayes,1.0,1.0,1.0,1.0,1.0,4
+IndoBERT + SVM,0.75,0.5625,0.75,0.6429,1.0,4

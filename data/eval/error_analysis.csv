@@ -1,2 +1,2 @@
-﻿case_id,no_perkara,true_label,pred_svm,pred_nb,word_count,vonis
-case_004,1310/Pid.B/2025/PN Tng,bebas,bersalah_ringan,bebas,52879,bebas
+﻿case_id,no_perkara,true_label,pred_svm,pred_nb,pred_bert,word_count,vonis
+case_004,1310/Pid.B/2025/PN Tng,bebas,bersalah_ringan,bebas,bersalah_ringan,52879,bebas

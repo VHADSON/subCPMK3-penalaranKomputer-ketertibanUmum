@@ -1,5 +1,5 @@
-﻿query_id,no_perkara,true_label,predicted_label_svm,predicted_label_nb,predicted_amar,top_5_case_ids,correct_svm,correct_nb
-q_case_020,353/PID/2026/PT PDG,bersalah_ringan,bersalah_ringan,bersalah_ringan,perkara pidana dalam peradilan tingkat banding telah menjatuhkan putusan dalam perkara Para Terdakwa,case_020|case_016|case_017|case_002|case_031,True,True
-q_case_004,1310/Pid.B/2025/PN Tng,bebas,bersalah_ringan,bebas,perkara pidana denganacara pemeriksaan biasa dalam tingkat pertama menjatuhkan putusan sebagaiberiku,case_004|case_012|case_011|case_027|case_018,False,True
-q_case_022,58/Pid.B/2026/PN Pin,bersalah_ringan,bersalah_ringan,bersalah_ringan,perkara pidana denganacara pemeriksaan singkat dalam tingkat pertama menjatuhkan putusansebagai beri,case_022|case_027|case_030|case_003|case_016,True,True
-q_case_013,226/Pid.B/2024/PN Gto,bersalah_ringan,bersalah_ringan,bersalah_ringan,perkara pidana denganacara pemeriksaan biasa dalam tingkat pertama menjatuhkan putusan sebagaiberiku,case_013|case_007|case_006|case_014|case_010,True,True
+﻿query_id,no_perkara,true_label,predicted_label_svm,predicted_label_nb,predicted_label_bert,top_5_case_ids,correct_svm,correct_nb,correct_bert
+q_case_020,353/PID/2026/PT PDG,bersalah_ringan,bersalah_ringan,bersalah_ringan,bersalah_ringan,case_020|case_016|case_017|case_002|case_031,True,True,True
+q_case_004,1310/Pid.B/2025/PN Tng,bebas,bersalah_ringan,bebas,bersalah_ringan,case_004|case_012|case_011|case_027|case_018,False,True,False
+q_case_022,58/Pid.B/2026/PN Pin,bersalah_ringan,bersalah_ringan,bersalah_ringan,bersalah_ringan,case_022|case_027|case_030|case_003|case_016,True,True,True
+q_case_013,226/Pid.B/2024/PN Gto,bersalah_ringan,bersalah_ringan,bersalah_ringan,bersalah_ringan,case_013|case_007|case_006|case_014|case_010,True,True,True
